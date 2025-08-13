@@ -1,9 +1,9 @@
 [submodule "dojo-demo"]
 	path = dojo-demo
-	url = git@github.com:gbarros/dojo-demo.git
+	url = https://github.com/gbarros/dojo-demo.git
 [submodule "chopin-demo"]
 	path = chopin-demo
-	url = git@github.com:gbarros/chopin-demo.git
+	url = https://github.com/gbarros/chopin-demo.git
 [submodule "initia-demo"]
 	path = initia-demo
 	url = https://github.com/gbarros/initia-demo.git
@@ -12,4 +12,4 @@
 	url = https://github.com/gbarros/livy-demo.git
 [submodule "evolve-demo"]
 	path = evolve-demo
-	url = git@github.com:Bidon15/evolve-demo.git
+	url = https://github.com/Bidon15/evolve-demo.git
